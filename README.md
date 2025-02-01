@@ -7,3 +7,8 @@
 ## Neutron Star Axis Orientation
 
 - [iop](https://iopscience.iop.org/article/10.1086/305991/fulltext/37791.text.html) Rather triaxial mass distribution?
+
+## Skill Lab
+
+- Expeyes based lab.
+- 1 project per team of 4 students (arduino based).
